@@ -1,0 +1,24 @@
+{
+  "vocabulary": [
+    { "term": "Category" },
+    { "term": "Code" },
+    { "term": "CSV" },
+    { "term": "Data" },
+    { "term": "Export" },
+    { "term": "Feature" },
+    { "term": "Firebase studio" },
+    { "term": "Goal" },
+    { "term": "Import" },
+    { "term": "Layer" },
+    { "term": "License" },
+    { "term": "Phase" },
+    { "term": "Process" },
+    { "term": "Project" },
+    { "term": "Quality" },
+    { "term": "Requirement" },
+    { "term": "Reuse" },
+    { "term": "Support" },
+    { "term": "Time range" },
+    { "term": "URL" }
+  ]
+}

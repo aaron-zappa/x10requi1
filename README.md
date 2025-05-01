@@ -66,3 +66,9 @@ We believe in the power of collaboration. **Anybody can support** x10requi! We w
 ## License
 
 x10requi is an **open-source** project. This means you're free to use, modify, and distribute x10requi according to the terms of its license.
+
+
+## Built with Firebase Studio
+start timestamp: 01.05.2025
+
+This project gets crafted with Firebase Studio. 

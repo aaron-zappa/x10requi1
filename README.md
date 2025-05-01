@@ -14,6 +14,7 @@ Priorize & vote for planned features
 5.  [Key Features](#key-features)
 6.  [Getting Started](#getting-started)
 7.  [Usage Examples](#usage-examples)
+8.  [System Parameters](#system-parameters)
 8.  [Contributing](#contributing)
 9.  [License](#license)
 
@@ -47,6 +48,19 @@ x10requi brings the following features designed to streamline your requirement p
 *   **CSV Export and Import:** You can export your requirements to a CSV file and import them back into the application, which is helpful for data backup, sharing, and working offline.
 
 
+## System Parameters
+
+The core system parameters for x10requi are stored in a Firebase database. These parameters control the fundamental structure of the requirement process.
+
+### Core Phases
+
+The system includes the following core phases:
+
+*   **initial_collect:** The phase for initial requirement gathering.
+*   **first_refine:** The phase for the initial refinement of collected requirements.
+
+### Timeline
+The system includes the following timeline values:
 
 ## Getting Started
 
@@ -67,8 +81,8 @@ We believe in the power of collaboration. **Anybody can support** x10requi! We w
 
 x10requi is an **open-source** project. This means you're free to use, modify, and distribute x10requi according to the terms of its license.
 
-
+    
+    
 ## Built with Firebase Studio
-start timestamp: 01.05.2025
-
-This project gets crafted with Firebase Studio. 
+    
+This project gets crafted with Firebase Studio.

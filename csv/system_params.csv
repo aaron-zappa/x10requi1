@@ -1,6 +1,0 @@
-param_cat,param_code,description
-phase,initial_collect,Initial Collection Phase
-phase,first_refine,First Refinement Phase
-timeline,short,Short-Term
-timeline,mid,Mid-Term
-timeline,long term,Long-Term

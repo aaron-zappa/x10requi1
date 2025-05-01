@@ -1,0 +1,8 @@
+global,project_id,REQ_INITIAL_SCOPE,type,text
+user_scope,0,REQ_INITIAL_SCOPE,tag,planning
+user_scope,0,REQ_CORE_REQUIREMENTS,tag,project
+user_scope,0,REQ_CORE_REQUIREMENTS,tag,features
+user_scope,0,REQ_SHORT_TERM_NEEDS,tag,urgent
+user_scope,0,REQ_SHORT_TERM_NEEDS,tag,time
+user_scope,0,REQ_MID_TERM_GOALS,categ,time
+user_scope,0,REQ_LONG_TERM_STRATEGY,categ,future

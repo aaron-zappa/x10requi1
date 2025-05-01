@@ -1,7 +1,6 @@
-csv
-id,user_scope,requi_code,layer,requi_cat,descrip,created,modified
-1,global,REQ_INITIAL_SCOPE,basic,phase,"Clearly outline the boundaries and objectives of the project.",2024-01-24 09:00,2024-01-24 09:00
-2,global,REQ_CORE_REQUIREMENTS,basic,phase,"Detail the essential features and functionalities.",2024-01-25 10:00,2024-01-25 10:00
-3,global,REQ_SHORT_TERM_NEEDS,basic,timeline,"Plan for immediate requirements.",2024-01-26 11:00,2024-01-26 11:00
-4,global,REQ_MID_TERM_GOALS,basic,timeline,"Define the milestones for the upcoming months.",2024-01-27 12:00,2024-01-27 12:00
-5,global,REQ_LONG_TERM_STRATEGY,basic,timeline,"Map out the vision for the project's future.",2024-01-28 13:00,2024-01-28 13:00
+id,user_scope,prj_id,requi_code,layer,requi_cat,descrip,created,modified
+1,global,0,REQ_INITIAL_SCOPE,basic,phase,"Clearly outline the boundaries and objectives of the project.",2024-01-24 09:00,2024-01-24 09:00
+2,global,0,REQ_CORE_REQUIREMENTS,basic,phase,"Detail the essential features and functionalities.",2024-01-25 10:00,2024-01-25 10:00
+3,global,0,REQ_SHORT_TERM_NEEDS,basic,timeline,"Plan for immediate requirements.",2024-01-26 11:00,2024-01-26 11:00
+4,global,0,REQ_MID_TERM_GOALS,basic,timeline,"Define the milestones for the upcoming months.",2024-01-27 12:00,2024-01-27 12:00
+5,global,0,REQ_LONG_TERM_STRATEGY,basic,timeline,"Map out the vision for the project's future.",2024-01-28 13:00,2024-01-28 13:00

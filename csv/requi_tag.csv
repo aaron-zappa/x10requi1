@@ -1,9 +1,8 @@
-requi_code,tag
-REQ_INITIAL_SCOPE,project
-REQ_INITIAL_SCOPE,planning
-REQ_CORE_REQUIREMENTS,project
-REQ_CORE_REQUIREMENTS,features
-REQ_SHORT_TERM_NEEDS,urgent
-REQ_SHORT_TERM_NEEDS,time
-REQ_MID_TERM_GOALS,time
-REQ_LONG_TERM_STRATEGY,future
+global,REQ_INITIAL_SCOPE,project
+user_scope,REQ_INITIAL_SCOPE,planning
+user_scope,REQ_CORE_REQUIREMENTS,project
+user_scope,REQ_CORE_REQUIREMENTS,features
+user_scope,REQ_SHORT_TERM_NEEDS,urgent
+user_scope,REQ_SHORT_TERM_NEEDS,time
+user_scope,REQ_MID_TERM_GOALS,time
+user_scope,REQ_LONG_TERM_STRATEGY,future

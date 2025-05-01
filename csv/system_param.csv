@@ -1,0 +1,6 @@
+user_scope,param_cat,param_code,descrip
+global,phase,initial_collect,Initial Collection Phase
+global,phase,first_refine,First Refinement Phase
+global,timeline,short,Short-Term
+global,timeline,mid,Mid-Term
+global,timeline,long term,Long-Term
